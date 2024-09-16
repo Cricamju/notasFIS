@@ -1,0 +1,19 @@
+1. SOftware: resuelve un problema o necesidad 
+2. Planificacion: es un proceso temporal para conseguir un objetivo
+   Diseñar: hacer los bocetos de lo que quieres 
+   Implementacion: es cuando aplicas un metodo para llegar a algo
+   Pruebas: es un instrumento en el cual prentendas demostara algo que sirva
+   Despliegue: es el que funcione correctamente el proyecto
+   Mantenimiento: Es cuando quien mejorar o actualizar el proyecto
+3. Project manajer: es el dirige un proyecto
+4. scrum master: es el guia al equipo 
+5. u.X designer: es el crea algo 
+6. tester: es el que evalua o pone aprueba el proyecto
+7. product owner: es que guia el desarrollo del proyecto
+8. analista de negocio: es el aquel analiza y realiza proyectos
+9. Metodologia SCRUM: es la gestion de proyectos en diferentes fases
+10. Metodologia Cascada: es el que aborda los problemas complejos
+
+ 
+
+    
